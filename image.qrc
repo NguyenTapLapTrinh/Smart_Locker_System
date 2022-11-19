@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="Closet">
+    <file>closet_close.png</file>
+    <file>closet_open.png</file>
+  </qresource>
+</RCC>
